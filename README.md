@@ -1,0 +1,1 @@
+"# GoogleBardAPI_workaround" 
